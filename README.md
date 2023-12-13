@@ -22,4 +22,5 @@ SENSH pulses and stops the pump. .
 - When the P signal is at level 1, water is discharged through VALVE control, and at the same time the valve
 has a flow sensor that returns a 1 kHz pulse signal, 100 pulses corresponding to 1 liter. During the discharging
 process, the 7-segment LED displays the remaining capacity (injected flow minus discharged flow).
+
 # Pump_system
