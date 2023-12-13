@@ -1,0 +1,7 @@
+verilog work "tinhieubom.v"
+verilog work "CAM_BIEN_XA.v"
+verilog work "CHIA_XUNG_XA.v"
+verilog work "chiaxung.v"
+verilog work "demlenxuong.v"
+verilog work "add.v"
+verilog work "bitoBDC.v"
